@@ -16,7 +16,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![Hackage-Deps](https://img.shields.io/hackage-deps/v/json)
 ![Issues](https://img.shields.io/badge/issues-0-green)
-![Twitter Follow](https://img.shields.io/twitter/follow/TashfeenDev?label=Tashfeen&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/TashfeenDev?label=dennycodev&style=social)
 
 </br>
 
@@ -40,7 +40,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/TashfeenRao/react-bookstore
+$ git clone https://github.com/OlukaDenis/react-bookstore
 
 # Go into the repository
 $ cd react-bookstore
@@ -62,7 +62,7 @@ https://react-bookstore-tash-den.herokuapp.com/.
 
 ## Emailware
 
-Book-store is an Open-source. if you liked using this app or it has helped you in any way, I'd like you to send me an email at <raotashfeen25@gmail.com> about anything you'd want to say about this software. I'd appreciate it!
+Book-store is an Open-source. if you liked using this app or it has helped you in any way, I'd like you to send me an email at <olukadeno@gmail.com> about anything you'd want to say about this software. I'd appreciate it!
 
 ## Credits
 
